@@ -1,0 +1,15 @@
+# ===========================================
+# ENVIRONMENT VARIABLES TEMPLATE
+# ===========================================
+# Copy this file to .env and fill in your keys:
+#   copy ENV_TEMPLATE.txt .env
+# ===========================================
+
+# Mistral AI API Key (required)
+# Get your key from: https://console.mistral.ai/api-keys/
+MISTRAL_API_KEY=your_mistral_api_key_here
+
+# Telegram Bot Token (required for telegram_bot.py)
+# Get your token from @BotFather on Telegram
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+
